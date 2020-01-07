@@ -1,5 +1,5 @@
 # Getting Started with the WinForms DataGrid of Syncfusion
-A quick start project that helps you to create the Syncfusion WinForms DataGrid and bind data collection to it. You will also learn how to perform sorting, grouping, filtering, editing and selection operations in WinForms DataGrid.
+A quick start project that helps you to create the Syncfusion WinForms DataGrid and bind data collection to it. You will also learn how to perform few data operations like sorting, grouping, filtering, editing and selection operations in WinForms DataGrid.
 
 Watch the video now: 
 
