@@ -1,9 +1,10 @@
 # Getting Started with the WinForms DataGrid of Syncfusion
-A quick start project that helps you to create the Syncfusion WinForms DataGrid and bind data collection to it. You will also learn how to perform few data operations like sorting, grouping, filtering, editing and selection operations in WinForms DataGrid.
 
-Watch the video now: 
+A quick start project that helps you to create the Syncfusion [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) and bind data collection to it. You will also learn how to perform few data operations like [sorting](https://help.syncfusion.com/windowsforms/datagrid/sorting), [grouping](https://help.syncfusion.com/windowsforms/datagrid/grouping), [filtering](https://help.syncfusion.com/windowsforms/datagrid/filtering), [editing](https://help.syncfusion.com/windowsforms/datagrid/editing) and [selection](https://help.syncfusion.com/windowsforms/datagrid/selection) operations in DataGrid.
 
-Documentation: https://help.syncfusion.com/windowsforms/datagrid/gettingstarted
+Watch the video now: [Getting Started](https://youtu.be/ShhjvfqfrxM)
+
+Documentation: [Getting Started](https://help.syncfusion.com/windowsforms/datagrid/gettingstarted)
 
 ## Project pre-requisites
 To run this application, you need to have the below two in your system
